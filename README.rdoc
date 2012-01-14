@@ -9,28 +9,7 @@ Please see the doc at https://github.com/Netflix/curator/wiki
 
 == MAVEN
 
-Curator binaries are published to Maven Central. The dependency specs are:
-
-Curator Client:
-    <dependency>
-        <groupId>com.netflix.curator</groupId>
-        <artifactId>curator-client</artifactId>
-        <version>version-number</version>
-    </dependency>
-
-Curator Framework:
-    <dependency>
-        <groupId>com.netflix.curator</groupId>
-        <artifactId>curator-framework</artifactId>
-        <version>version-number</version>
-    </dependency>
-
-Curator Recipes:
-    <dependency>
-        <groupId>com.netflix.curator</groupId>
-        <artifactId>curator-recipes</artifactId>
-        <version>version-number</version>
-    </dependency>
+Curator binaries are published to Maven Central. Please see the docs for details.
 
 == AUTHOR
 
